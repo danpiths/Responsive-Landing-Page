@@ -12,7 +12,7 @@ emailCollectorForm.addEventListener("submit", (event) => {
         Why don't you explore our site meanwhile, we're sure you'll love it!
       </p>
       <div class = "email-collector">
-        <a href="https://pithvadhwnail.github.io/responsive-gaming-blog/" class="btn btn-primary">Visit</a>
+        <a href="https://danpiths.github.io/Responsive-Gaming-Blog/" class="btn btn-primary">Visit</a>
       </div>
       <p class="privacy">
         We'll never share your information without your permission

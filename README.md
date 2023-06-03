@@ -1,7 +1,7 @@
 # Responsive Landing Page
 
 Landing Page for my responsive website design trial.
-> This web page’s form doesn’t submit anywhere, feel free to enter whatever. Nothing is being sent or collected anywhere. 
+> The form in this web page doesn’t submit anywhere, feel free to enter whatever. Nothing is being sent or collected anywhere. 
 
 [Visit Landing Page](https://danpiths.github.io/Responsive-Landing-Page/)
 

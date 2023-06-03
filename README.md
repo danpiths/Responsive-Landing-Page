@@ -15,6 +15,6 @@ Landing Page for my responsive website design trial.
 
 Clone the repo and run a local development server (ex. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer))
 
-```bash
+```shell
 git clone https://github.com/danpiths/Responsive-Landing-Page.git
 ```
